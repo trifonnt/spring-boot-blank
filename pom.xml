@@ -8,12 +8,12 @@
     <version>1.0.6-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>Spring Boot Blank Project (from https://github.com/making/spring-boot-blank)</name>
+    <name>Spring Boot Blank Project (from https://github.com/trifonnt/spring-boot-blank)</name>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>1.2.3.RELEASE</version>
+        <version>1.2.5.RELEASE</version>
         <relativePath/>
     </parent>
     <licenses><!-- DELETE THIS LINE -->
@@ -110,5 +110,4 @@
             </plugin>
         </plugins>
     </build>
-
 </project>
